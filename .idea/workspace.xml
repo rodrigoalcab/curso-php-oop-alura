@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b8cd7ade-d4ca-4e4b-a1d7-162533a7193a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1ZgFZg2uGZTY2dkgNRSrI8YVV6u" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../laradev/prototipo" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\estudo oop" />
+      <recent name="C:\xampp\htdocs\estudo oop\src\Modelo" />
+      <recent name="C:\xampp\htdocs\estudo oop\src\Funcionario" />
+      <recent name="C:\xampp\htdocs\estudo oop\src\Service" />
+      <recent name="C:\xampp\htdocs\estudo oop\src\Modelo\Conta" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b8cd7ade-d4ca-4e4b-a1d7-162533a7193a" name="Default Changelist" comment="" />
+      <created>1585252886235</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585252886235</updated>
+      <workItem from="1585252887428" duration="1638000" />
+      <workItem from="1585261977263" duration="48000" />
+      <workItem from="1585333883158" duration="3468000" />
+      <workItem from="1585411298475" duration="5161000" />
+      <workItem from="1585438232674" duration="56000" />
+      <workItem from="1585506185352" duration="2383000" />
+      <workItem from="1585519976518" duration="162000" />
+      <workItem from="1585594450794" duration="3418000" />
+      <workItem from="1585664818467" duration="255000" />
+      <workItem from="1585671281538" duration="4518000" />
+      <workItem from="1585760572560" duration="330000" />
+      <workItem from="1586006564914" duration="677000" />
+      <workItem from="1586344015032" duration="14824000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
